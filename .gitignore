@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/*
+/venv/*
+.volume
+.env
+db.sqlite3
+*.log
+*.pot
+*.pyc
+__pycache__/
+.Python
